@@ -22,4 +22,4 @@ To install the required libraries, use the provided `requirements.txt` file.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/jlevija/RC4-Brute-Force.git
